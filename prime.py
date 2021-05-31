@@ -7,4 +7,4 @@ while True:
 	for y in range(2,x-1):
 		if x%y == 0: t = False
 	if x==1: t = False
-	if t : print("Prime number : "+str(x))
+	if t : print("Prime Number : "+str(x))
